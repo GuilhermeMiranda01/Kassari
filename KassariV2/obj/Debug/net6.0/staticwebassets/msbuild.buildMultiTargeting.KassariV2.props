@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KassariV2.props" />
+</Project>
