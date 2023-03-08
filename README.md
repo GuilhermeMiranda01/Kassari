@@ -13,6 +13,7 @@ Projeto de gerenciamento e atribuição de tarefas
 # Tecnologias que serão aplicadas
 - Padrão de projeto strategy
 - Messageria
+- Testes unitários
 
 # Tecnologias adjacentes
 - Front End - React
