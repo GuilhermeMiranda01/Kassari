@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "r//WrKCwCSZ33kZMBcmkxyJVaIb0ytcsmS7tv+EkAAc=",
-  "Source": "KassariV2",
-  "BasePath": "_content/KassariV2",
+  "Hash": "S4dsSFGMRvNhguJW9ssoCS42PWiF83laVoU5TP+l+hU=",
+  "Source": "Kassari.Api",
+  "BasePath": "_content/Kassari.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

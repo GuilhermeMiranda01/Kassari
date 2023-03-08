@@ -1,0 +1,12 @@
+C:\Users\017954631\Documents\Kassari\Kassari.Application\bin\Debug\net6.0\Kassari.Application.deps.json
+C:\Users\017954631\Documents\Kassari\Kassari.Application\bin\Debug\net6.0\Kassari.Application.dll
+C:\Users\017954631\Documents\Kassari\Kassari.Application\bin\Debug\net6.0\Kassari.Application.pdb
+C:\Users\017954631\Documents\Kassari\Kassari.Application\obj\Debug\net6.0\Kassari.Application.csproj.AssemblyReference.cache
+C:\Users\017954631\Documents\Kassari\Kassari.Application\obj\Debug\net6.0\Kassari.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017954631\Documents\Kassari\Kassari.Application\obj\Debug\net6.0\Kassari.Application.AssemblyInfoInputs.cache
+C:\Users\017954631\Documents\Kassari\Kassari.Application\obj\Debug\net6.0\Kassari.Application.AssemblyInfo.cs
+C:\Users\017954631\Documents\Kassari\Kassari.Application\obj\Debug\net6.0\Kassari.Application.csproj.CoreCompileInputs.cache
+C:\Users\017954631\Documents\Kassari\Kassari.Application\obj\Debug\net6.0\Kassari.Application.dll
+C:\Users\017954631\Documents\Kassari\Kassari.Application\obj\Debug\net6.0\refint\Kassari.Application.dll
+C:\Users\017954631\Documents\Kassari\Kassari.Application\obj\Debug\net6.0\Kassari.Application.pdb
+C:\Users\017954631\Documents\Kassari\Kassari.Application\obj\Debug\net6.0\ref\Kassari.Application.dll

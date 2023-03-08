@@ -1,0 +1,17 @@
+C:\Users\017954631\Documents\Kassari\Kassari.Infrastructure\bin\Debug\net6.0\Kassari.Infrastructure.deps.json
+C:\Users\017954631\Documents\Kassari\Kassari.Infrastructure\bin\Debug\net6.0\Kassari.Infrastructure.runtimeconfig.json
+C:\Users\017954631\Documents\Kassari\Kassari.Infrastructure\bin\Debug\net6.0\Kassari.Infrastructure.dll
+C:\Users\017954631\Documents\Kassari\Kassari.Infrastructure\bin\Debug\net6.0\Kassari.Infrastructure.pdb
+C:\Users\017954631\Documents\Kassari\Kassari.Infrastructure\bin\Debug\net6.0\Kassari.Domain.dll
+C:\Users\017954631\Documents\Kassari\Kassari.Infrastructure\bin\Debug\net6.0\Kassari.Domain.pdb
+C:\Users\017954631\Documents\Kassari\Kassari.Infrastructure\obj\Debug\net6.0\Kassari.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\017954631\Documents\Kassari\Kassari.Infrastructure\obj\Debug\net6.0\Kassari.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017954631\Documents\Kassari\Kassari.Infrastructure\obj\Debug\net6.0\Kassari.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\017954631\Documents\Kassari\Kassari.Infrastructure\obj\Debug\net6.0\Kassari.Infrastructure.AssemblyInfo.cs
+C:\Users\017954631\Documents\Kassari\Kassari.Infrastructure\obj\Debug\net6.0\Kassari.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\017954631\Documents\Kassari\Kassari.Infrastructure\obj\Debug\net6.0\Kassari.Infrastructure.csproj.CopyComplete
+C:\Users\017954631\Documents\Kassari\Kassari.Infrastructure\obj\Debug\net6.0\Kassari.Infrastructure.dll
+C:\Users\017954631\Documents\Kassari\Kassari.Infrastructure\obj\Debug\net6.0\refint\Kassari.Infrastructure.dll
+C:\Users\017954631\Documents\Kassari\Kassari.Infrastructure\obj\Debug\net6.0\Kassari.Infrastructure.pdb
+C:\Users\017954631\Documents\Kassari\Kassari.Infrastructure\obj\Debug\net6.0\Kassari.Infrastructure.genruntimeconfig.cache
+C:\Users\017954631\Documents\Kassari\Kassari.Infrastructure\obj\Debug\net6.0\ref\Kassari.Infrastructure.dll

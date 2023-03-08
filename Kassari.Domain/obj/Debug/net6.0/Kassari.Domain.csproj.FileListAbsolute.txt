@@ -1,0 +1,12 @@
+C:\Users\017954631\Documents\Kassari\Kassari.Domain\bin\Debug\net6.0\Kassari.Domain.deps.json
+C:\Users\017954631\Documents\Kassari\Kassari.Domain\bin\Debug\net6.0\Kassari.Domain.dll
+C:\Users\017954631\Documents\Kassari\Kassari.Domain\bin\Debug\net6.0\Kassari.Domain.pdb
+C:\Users\017954631\Documents\Kassari\Kassari.Domain\obj\Debug\net6.0\Kassari.Domain.csproj.AssemblyReference.cache
+C:\Users\017954631\Documents\Kassari\Kassari.Domain\obj\Debug\net6.0\Kassari.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017954631\Documents\Kassari\Kassari.Domain\obj\Debug\net6.0\Kassari.Domain.AssemblyInfoInputs.cache
+C:\Users\017954631\Documents\Kassari\Kassari.Domain\obj\Debug\net6.0\Kassari.Domain.AssemblyInfo.cs
+C:\Users\017954631\Documents\Kassari\Kassari.Domain\obj\Debug\net6.0\Kassari.Domain.csproj.CoreCompileInputs.cache
+C:\Users\017954631\Documents\Kassari\Kassari.Domain\obj\Debug\net6.0\Kassari.Domain.dll
+C:\Users\017954631\Documents\Kassari\Kassari.Domain\obj\Debug\net6.0\refint\Kassari.Domain.dll
+C:\Users\017954631\Documents\Kassari\Kassari.Domain\obj\Debug\net6.0\Kassari.Domain.pdb
+C:\Users\017954631\Documents\Kassari\Kassari.Domain\obj\Debug\net6.0\ref\Kassari.Domain.dll

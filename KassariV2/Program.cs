@@ -1,11 +1,14 @@
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
-using System.Configuration;
+using Microsoft.OpenApi.Models;
+using Microsoft.EntityFrameworkCore;
+using KassariV2.Context;
 using KassariV2.Repository.Interfaces;
 using KassariV2.Repository;
-using Microsoft.OpenApi.Models;
+using Kassari.Domain.Interfaces;
+using Kassari.Infrastructure.Repositories;
+using KassariV2.Entities;
 
 var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
@@ -43,9 +46,15 @@ builder.Services.AddSwaggerGen(option =>
         }
     });
 });
+builder.Services.AddDbContext<KassariContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("default")));
 
 //apaga dps e vê se funciona
+builder.Services.AddScoped(typeof(IRepository<Users>), typeof(UsersRepository));
+builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+//builder.Services.AddScoped(typeof(UsersService));
+builder.Services.AddScoped(typeof(IUnitOfWork), typeof(UnitOfWork));
 builder.Services.AddScoped<IJWTManagerRepository, JWTManagerRepository>();
+builder.Services.AddScoped<UsersRepository>();
 //setup JWT
 builder.Services.AddAuthentication(x =>
 {

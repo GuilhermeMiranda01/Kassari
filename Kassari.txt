@@ -1,0 +1,4 @@
+pontos a acrescentar no projeto Kassari
+padrão Repository
+padrão Strategy
+testes unitários

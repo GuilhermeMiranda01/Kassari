@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KassariV2", "KassariV2\KassariV2.csproj", "{B8EF189C-9636-4B4A-90D5-1E76AF7962F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kassari.Api", "KassariV2\Kassari.Api.csproj", "{B8EF189C-9636-4B4A-90D5-1E76AF7962F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kassari.Application", "Kassari.Application\Kassari.Application.csproj", "{5A9B0F19-9AE7-4E5A-BB07-22AB35225D57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kassari.Infrastructure", "Kassari.Infrastructure\Kassari.Infrastructure.csproj", "{E84E680E-430A-4DA3-AC7F-6291DA7B34E7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kassari.Domain", "Kassari.Domain\Kassari.Domain.csproj", "{92D1BDA4-AB99-424E-BB99-625DC8D629D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{B8EF189C-9636-4B4A-90D5-1E76AF7962F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8EF189C-9636-4B4A-90D5-1E76AF7962F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8EF189C-9636-4B4A-90D5-1E76AF7962F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A9B0F19-9AE7-4E5A-BB07-22AB35225D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A9B0F19-9AE7-4E5A-BB07-22AB35225D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A9B0F19-9AE7-4E5A-BB07-22AB35225D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A9B0F19-9AE7-4E5A-BB07-22AB35225D57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E84E680E-430A-4DA3-AC7F-6291DA7B34E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E84E680E-430A-4DA3-AC7F-6291DA7B34E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E84E680E-430A-4DA3-AC7F-6291DA7B34E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E84E680E-430A-4DA3-AC7F-6291DA7B34E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92D1BDA4-AB99-424E-BB99-625DC8D629D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D1BDA4-AB99-424E-BB99-625DC8D629D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D1BDA4-AB99-424E-BB99-625DC8D629D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D1BDA4-AB99-424E-BB99-625DC8D629D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
